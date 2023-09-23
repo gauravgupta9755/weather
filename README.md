@@ -2,11 +2,11 @@
 <img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
- </p>
+ </p> -->
  <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+  View <a href="https://650f032079d0583fbe6fc2ef--jade-shortbread-6cb423.netlify.app/">Live demo</a>.
  </p>
 
 ## Setup
